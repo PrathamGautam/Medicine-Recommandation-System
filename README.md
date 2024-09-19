@@ -1,5 +1,5 @@
 
-# Food & Diet Recommendation System
+# Medicine & Diet Recommendation System
 
 This Flask-based web application provides personalized disease predictions and corresponding recommendations for diet, medications, precautions, and workout routines. The app uses a machine learning model to predict the disease based on user-entered symptoms and provides relevant health recommendations.
 
@@ -41,5 +41,5 @@ This project is used by the following companies:
 
 # Conclusion
 
-The Food & Diet Recommendation System leverages machine learning and Flask to offer a user-friendly tool for disease prediction and personalized health recommendations. By entering symptoms, users receive insights into their potential condition, along with tailored advice on medications, diet, precautions, and workout routines. This project demonstrates how technology can be utilized to enhance health awareness and promote better lifestyle choices through intelligent recommendations. With further enhancements, this system has the potential to become a valuable resource for both individuals and healthcare professionals.
+The Medicine & Diet Recommendation System leverages machine learning and Flask to offer a user-friendly tool for disease prediction and personalized health recommendations. By entering symptoms, users receive insights into their potential condition, along with tailored advice on medications, diet, precautions, and workout routines. This project demonstrates how technology can be utilized to enhance health awareness and promote better lifestyle choices through intelligent recommendations. With further enhancements, this system has the potential to become a valuable resource for both individuals and healthcare professionals.
 
